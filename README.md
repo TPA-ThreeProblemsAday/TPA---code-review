@@ -6,4 +6,4 @@
 | 문제 |알고리즘 분류 |이종원 | 최효빈 | 김혜경 | 김보경 | 지한얼 |
 |-----|-----|-----|-----|-----|-----|-----|
 | [16234. 인구 이동](https://www.acmicpc.net/problem/16234) | 시뮬레이션 |[풀이 코드]() | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_CHB/blob/main/hyobin/java/simulation/BOJ_16234.java) | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
-| [1106. 호텔](https://www.acmicpc.net/problem/1106) | DP |[풀이 코드]() | [풀이 코드]() | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
+| [1106. 호텔](https://www.acmicpc.net/problem/1106) | DP |[풀이 코드]() | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_CHB/blob/main/hyobin/java/DP/knapsack/BOJ_1106.java) | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
