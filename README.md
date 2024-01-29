@@ -4,8 +4,8 @@
 ## 2024.01.22 - 2주차✨
 | 문제 |알고리즘 분류 |이종원 | 최효빈 | 김혜경 | 김보경 | 지한얼 |
 |-----|-----|-----|-----|-----|-----|-----|
-| [15685. 드래곤 커브](https://www.acmicpc.net/problem/15685) | 시뮬레이션 |[풀이 코드]() | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_CHB/blob/main/hyobin/java/simulation/BOJ_15685.java) | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
-| [5557. 1학년](https://www.acmicpc.net/problem/5557) | DP |[풀이 코드]() | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_CHB/blob/main/hyobin/java/DP/Main_5557.java) | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
+| [15685. 드래곤 커브](https://www.acmicpc.net/problem/15685) | 시뮬레이션 |[풀이 코드]() | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_CHB/blob/main/hyobin/java/simulation/BOJ_15685.java) | [풀이 코드]() | [풀이 코드]() |[풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_JHE/blob/main/%EB%B0%B1%EC%A4%80/Gold/15685.%E2%80%85%EB%93%9C%EB%9E%98%EA%B3%A4%E2%80%85%EC%BB%A4%EB%B8%8C/%EB%93%9C%EB%9E%98%EA%B3%A4%E2%80%85%EC%BB%A4%EB%B8%8C.java)|
+| [5557. 1학년](https://www.acmicpc.net/problem/5557) | DP |[풀이 코드]() | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_CHB/blob/main/hyobin/java/DP/Main_5557.java) | [풀이 코드]() | [풀이 코드]() |[풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_JHE/blob/main/%EB%B0%B1%EC%A4%80/Gold/5557.%E2%80%851%ED%95%99%EB%85%84/1%ED%95%99%EB%85%84.java)|
 
 
 ## 2024.01.15 - 1주차✨
