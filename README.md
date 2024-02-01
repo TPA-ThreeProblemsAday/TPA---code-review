@@ -6,7 +6,7 @@
 | 문제 |알고리즘 분류 |이종원 | 최효빈 | 김혜경 | 김보경 | 지한얼 |
 |-------|-------|-------|-------|-------|-------|-------|
 | [16236. 아기상어](https://www.acmicpc.net/problem/16236) | 시뮬레이션 |[풀이 코드]() | [풀이 코드]() | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
-| [프로그래머스. 산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705) | DP |[풀이 코드]() | [풀이 코드]() | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
+| [프로그래머스. 산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705) | DP |[풀이 코드]() | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_CHB/blob/main/hyobin/java/DP/programmers_258705.java) | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
 
 
 ## 2024.01.22 - 2주차✨
