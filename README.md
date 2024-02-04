@@ -5,8 +5,8 @@
 ## 2024.01.29 - 3주차✨
 | 문제 |알고리즘 분류 |이종원 | 최효빈 | 김혜경 | 김보경 | 지한얼 |
 |-------|-------|-------|-------|-------|-------|-------|
-| [16236. 아기상어](https://www.acmicpc.net/problem/16236) | 시뮬레이션 |[풀이 코드]() | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_CHB/blob/main/hyobin/java/simulation/Main_16236.java) | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
-| [프로그래머스. 산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705) | DP |[풀이 코드]() | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_CHB/blob/main/hyobin/java/DP/programmers_258705.java) | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
+| [16236. 아기상어](https://www.acmicpc.net/problem/16236) | 시뮬레이션 |[풀이 코드]() | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_CHB/blob/main/hyobin/java/simulation/Main_16236.java) | [풀이 코드]() | [풀이 코드]() |[풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_JHE/blob/main/%EB%B0%B1%EC%A4%80/Gold/16236.%E2%80%85%EC%95%84%EA%B8%B0%E2%80%85%EC%83%81%EC%96%B4/%EC%95%84%EA%B8%B0%E2%80%85%EC%83%81%EC%96%B4.java)|
+| [프로그래머스. 산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705) | DP |[풀이 코드]() | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_CHB/blob/main/hyobin/java/DP/programmers_258705.java) | [풀이 코드]() | [풀이 코드]() |[풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_JHE/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/3/258705.%E2%80%85%EC%82%B0%E2%80%85%EB%AA%A8%EC%96%91%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81/%EC%82%B0%E2%80%85%EB%AA%A8%EC%96%91%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81.java)|
 
 
 ## 2024.01.22 - 2주차✨
