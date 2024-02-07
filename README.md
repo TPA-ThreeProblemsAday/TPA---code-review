@@ -5,8 +5,8 @@
 ## 2024.02.05 - 4주차✨
 | 문제 |알고리즘 분류 |이종원 | 최효빈 | 김혜경 | 김보경 | 지한얼 |
 |-----|-----|-----|-----|-----|-----|-----|
-| [15683. 감시](https://www.acmicpc.net/problem/15683) | 시뮬레이션 |[풀이 코드]() | [풀이 코드]() | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
-| [2011. 암호코드](https://www.acmicpc.net/problem/2011) | DP |[풀이 코드]() | [풀이 코드]() | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
+| [15683. 감시](https://www.acmicpc.net/problem/15683) | 시뮬레이션 |[풀이 코드]() | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_CHB/blob/main/hyobin/java/simulation/Main_15683.java) | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
+| [2011. 암호코드](https://www.acmicpc.net/problem/2011) | DP |[풀이 코드]() | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_CHB/blob/main/hyobin/java/DP/BOJ_2011.java) | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
 
 ## 2024.01.29 - 3주차✨
 | 문제 |알고리즘 분류 |이종원 | 최효빈 | 김혜경 | 김보경 | 지한얼 |
