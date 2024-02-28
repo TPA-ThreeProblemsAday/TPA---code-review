@@ -6,7 +6,7 @@
 ## 2024.02.19 - 6주차✨
 | 문제 |알고리즘 분류 |이종원 | 최효빈 | 김혜경 | 김보경 | 지한얼 |
 |-----|-----|-----|-----|-----|-----|-----|
-| [20057. 마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) | 시뮬레이션 |[풀이 코드]() | [풀이 코드]() | [풀이 코드]() | [풀이 코드]() |[풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_JHE/blob/main/%EB%B0%B1%EC%A4%80/Gold/20057.%E2%80%85%EB%A7%88%EB%B2%95%EC%82%AC%E2%80%85%EC%83%81%EC%96%B4%EC%99%80%E2%80%85%ED%86%A0%EB%84%A4%EC%9D%B4%EB%8F%84/%EB%A7%88%EB%B2%95%EC%82%AC%E2%80%85%EC%83%81%EC%96%B4%EC%99%80%E2%80%85%ED%86%A0%EB%84%A4%EC%9D%B4%EB%8F%84.java)|
+| [20057. 마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) | 시뮬레이션 |[풀이 코드]() | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_CHB/blob/main/hyobin/java/simulation/BOJ_20057.java) | [풀이 코드]() | [풀이 코드]() |[풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_JHE/blob/main/%EB%B0%B1%EC%A4%80/Gold/20057.%E2%80%85%EB%A7%88%EB%B2%95%EC%82%AC%E2%80%85%EC%83%81%EC%96%B4%EC%99%80%E2%80%85%ED%86%A0%EB%84%A4%EC%9D%B4%EB%8F%84/%EB%A7%88%EB%B2%95%EC%82%AC%E2%80%85%EC%83%81%EC%96%B4%EC%99%80%E2%80%85%ED%86%A0%EB%84%A4%EC%9D%B4%EB%8F%84.java)|
 | [14722. 우유 도시](https://www.acmicpc.net/problem/14722) | DP |[풀이 코드]() | [풀이 코드]() | [풀이 코드]() | [풀이 코드]() |[풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_JHE/blob/main/%EB%B0%B1%EC%A4%80/Gold/14722.%E2%80%85%EC%9A%B0%EC%9C%A0%E2%80%85%EB%8F%84%EC%8B%9C/%EC%9A%B0%EC%9C%A0%E2%80%85%EB%8F%84%EC%8B%9C.java)|
 
 ## 2024.02.12 - 5주차✨
