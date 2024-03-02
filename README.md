@@ -5,8 +5,8 @@
 ## 2024.02.26 - 7주차✨
 | 문제 |알고리즘 분류 |이종원 | 최효빈 | 김혜경 | 김보경 | 지한얼 |
 |-----|-----|-----|-----|-----|-----|-----|
-| [16235. 나무 재테크 ](https://www.acmicpc.net/problem/16235) | 시뮬레이션 |[풀이 코드]() | [풀이 코드](https://www.acmicpc.net/status?from_mine=1&problem_id=16235&user_id=gyqls234) | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
-| [20303. 할로윈의 양아치](https://www.acmicpc.net/problem/20303) | DP |[풀이 코드]() | [풀이 코드](https://www.acmicpc.net/status?user_id=gyqls234&problem_id=20303&from_mine=1) | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
+| [16235. 나무 재테크 ](https://www.acmicpc.net/problem/16235) | 시뮬레이션 |[풀이 코드]() | [풀이 코드](https://www.acmicpc.net/status?problem_id=16235&user_id=gyqls234) | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
+| [20303. 할로윈의 양아치](https://www.acmicpc.net/problem/20303) | DP |[풀이 코드]() | [풀이 코드](https://www.acmicpc.net/status?user_id=gyqls234&problem_id=20303) | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
 
 
 ## 2024.02.19 - 6주차✨
