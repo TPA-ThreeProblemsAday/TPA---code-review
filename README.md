@@ -5,8 +5,8 @@
 ## 2024.02.26 - 7주차✨
 | 문제 |알고리즘 분류 |이종원 | 최효빈 | 김혜경 | 김보경 | 지한얼 |
 |-----|-----|-----|-----|-----|-----|-----|
-| [16235. 나무 재테크 ](https://www.acmicpc.net/problem/16235) | 시뮬레이션 |[풀이 코드]() | [풀이 코드](https://www.acmicpc.net/status?problem_id=16235&user_id=gyqls234) | [풀이 코드]() | [풀이 코드]() |[풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_JHE/blob/main/%EB%B0%B1%EC%A4%80/Gold/16235.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%9E%AC%ED%85%8C%ED%81%AC/%EB%82%98%EB%AC%B4%E2%80%85%EC%9E%AC%ED%85%8C%ED%81%AC.java)|
-| [20303. 할로윈의 양아치](https://www.acmicpc.net/problem/20303) | DP |[풀이 코드]() | [풀이 코드](https://www.acmicpc.net/status?user_id=gyqls234&problem_id=20303) | [풀이 코드]() | [풀이 코드]() |[풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_JHE/blob/main/%EB%B0%B1%EC%A4%80/Gold/20303.%E2%80%85%ED%95%A0%EB%A1%9C%EC%9C%88%EC%9D%98%E2%80%85%EC%96%91%EC%95%84%EC%B9%98/%ED%95%A0%EB%A1%9C%EC%9C%88%EC%9D%98%E2%80%85%EC%96%91%EC%95%84%EC%B9%98.java)|
+| [16235. 나무 재테크 ](https://www.acmicpc.net/problem/16235) | 시뮬레이션 |[풀이 코드]() | [풀이 코드](https://www.acmicpc.net/status?problem_id=16235&user_id=gyqls234) | [풀이 코드]() | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_KBK/blob/main/BOJ/Simulation/BOJ16235.java) |[풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_JHE/blob/main/%EB%B0%B1%EC%A4%80/Gold/16235.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%9E%AC%ED%85%8C%ED%81%AC/%EB%82%98%EB%AC%B4%E2%80%85%EC%9E%AC%ED%85%8C%ED%81%AC.java)|
+| [20303. 할로윈의 양아치](https://www.acmicpc.net/problem/20303) | DP |[풀이 코드]() | [풀이 코드](https://www.acmicpc.net/status?user_id=gyqls234&problem_id=20303) | [풀이 코드]() | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_KBK/blob/main/BOJ/dp/BOJ2030.java) |[풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_JHE/blob/main/%EB%B0%B1%EC%A4%80/Gold/20303.%E2%80%85%ED%95%A0%EB%A1%9C%EC%9C%88%EC%9D%98%E2%80%85%EC%96%91%EC%95%84%EC%B9%98/%ED%95%A0%EB%A1%9C%EC%9C%88%EC%9D%98%E2%80%85%EC%96%91%EC%95%84%EC%B9%98.java)|
 
 
 ## 2024.02.19 - 6주차✨
