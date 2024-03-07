@@ -5,7 +5,7 @@
 ## 2024.03.04 - 8주차✨
 | 문제 |알고리즘 분류 |이종원 | 최효빈 | 김혜경 | 김보경 | 지한얼 |
 |-----|-----|-----|-----|-----|-----|-----|
-| [20058. 마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) | 시뮬레이션 |[풀이 코드]() | [풀이 코드](https://www.acmicpc.net/status?problem_id=20058&user_id=gyqls234) | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
+| [20058. 마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) | 시뮬레이션 |[풀이 코드]() | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_CHB/blob/main/hyobin/java/simulation/BOJ_20058.java) | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
 | [10942. 팰린드롬?](https://www.acmicpc.net/problem/10942) | DP |[풀이 코드]() | [풀이 코드]() | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
 
 ## 2024.02.26 - 7주차✨
