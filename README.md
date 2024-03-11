@@ -5,8 +5,8 @@
 ## 2024.03.04 - 8주차✨
 | 문제 |알고리즘 분류 |이종원 | 최효빈 | 김혜경 | 김보경 | 지한얼 |
 |-----|-----|-----|-----|-----|-----|-----|
-| [20058. 마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) | 시뮬레이션 |[풀이 코드]() | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_CHB/blob/main/hyobin/java/simulation/BOJ_20058.java) | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
-| [10942. 팰린드롬?](https://www.acmicpc.net/problem/10942) | DP |[풀이 코드]() | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_CHB/tree/main/hyobin/java/DP) | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
+| [20058. 마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) | 시뮬레이션 |[풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_LJW/blob/main/BKJ/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%2C%20%EA%B5%AC%ED%98%84/20058.%20%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%ED%8C%8C%EC%9D%B4%EC%96%B4%EC%8A%A4%ED%86%B0.java) | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_CHB/blob/main/hyobin/java/simulation/BOJ_20058.java) | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
+| [10942. 팰린드롬?](https://www.acmicpc.net/problem/10942) | DP |[풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_LJW/blob/main/BKJ/DP/10942.%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.java) | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_CHB/tree/main/hyobin/java/DP) | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
 
 ## 2024.02.26 - 7주차✨
 | 문제 |알고리즘 분류 |이종원 | 최효빈 | 김혜경 | 김보경 | 지한얼 |
