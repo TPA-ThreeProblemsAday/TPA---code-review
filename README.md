@@ -4,8 +4,8 @@
 ## 2024.03.13 - 9주차✨
 | 문제 |알고리즘 분류 |이종원 | 최효빈 | 김혜경 | 김보경 | 지한얼 |
 |-----|-----|-----|-----|-----|-----|-----|
-| [20165. 인내의 도미노 장인 호석](https://www.acmicpc.net/problem/20165) | 시뮬레이션 |[풀이 코드]() | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_CHB/blob/main/hyobin/java/simulation/BOJ_20165.java) | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
-| [18427. 함께 블록 쌓기](https://www.acmicpc.net/problem/18427) | DP |[풀이 코드]() | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_CHB/blob/main/hyobin/java/DP/BOJ_18427.java) | [풀이 코드]() | [풀이 코드]() |[풀이 코드]()|
+| [20165. 인내의 도미노 장인 호석](https://www.acmicpc.net/problem/20165) | 시뮬레이션 |[풀이 코드]() | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_CHB/blob/main/hyobin/java/simulation/BOJ_20165.java) | [풀이 코드]() | [풀이 코드]() |[풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_JHE/blob/main/%EB%B0%B1%EC%A4%80/Gold/20165.%E2%80%85%EC%9D%B8%EB%82%B4%EC%9D%98%E2%80%85%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%85%EC%9E%A5%EC%9D%B8%E2%80%85%ED%98%B8%EC%84%9D/%EC%9D%B8%EB%82%B4%EC%9D%98%E2%80%85%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%85%EC%9E%A5%EC%9D%B8%E2%80%85%ED%98%B8%EC%84%9D.java)|
+| [18427. 함께 블록 쌓기](https://www.acmicpc.net/problem/18427) | DP |[풀이 코드]() | [풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_CHB/blob/main/hyobin/java/DP/BOJ_18427.java) | [풀이 코드]() | [풀이 코드]() |[풀이 코드](https://github.com/TPA-ThreeProblemsAday/TPA_JHE/blob/main/%EB%B0%B1%EC%A4%80/Gold/18427.%E2%80%85%ED%95%A8%EA%BB%98%E2%80%85%EB%B8%94%EB%A1%9D%E2%80%85%EC%8C%93%EA%B8%B0/%ED%95%A8%EA%BB%98%E2%80%85%EB%B8%94%EB%A1%9D%E2%80%85%EC%8C%93%EA%B8%B0.java)|
 
 ## 2024.03.04 - 8주차✨
 | 문제 |알고리즘 분류 |이종원 | 최효빈 | 김혜경 | 김보경 | 지한얼 |
